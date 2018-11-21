@@ -16,6 +16,7 @@ public class IntroToRandom {
 		Random randy = new Random();
 		 r = randy.nextInt(133)+88;
 		//4. Limit the random number between 0 and 100
+		
 		//5. Limit the random number between 25 and 75. Hint: ((highest value - lowest value)+1) + lowest value
 		 
 		//6. Challenge: Limit the random number between -222 and 88
